@@ -1,0 +1,16 @@
+// Exported skin weight map file
+// 
+Owl1	JointMaster	Owl1_JointMaster.iff
+Owl1	Neck	Owl1_Neck.iff
+Owl1	LTopLid	Owl1_LTopLid.iff
+Owl1	LBottomLid	Owl1_LBottomLid.iff
+Owl1	RTopLid	Owl1_RTopLid.iff
+Owl1	RBottomLid	Owl1_RBottomLid.iff
+Owl1	TopBeak	Owl1_TopBeak.iff
+Owl1	BottomBeak	Owl1_BottomBeak.iff
+Owl1	LeftWingShoulder	Owl1_LeftWingShoulder.iff
+Owl1	LeftWingElbow	Owl1_LeftWingElbow.iff
+Owl1	LeftWingHand	Owl1_LeftWingHand.iff
+Owl1	RightWingShoulder	Owl1_RightWingShoulder.iff
+Owl1	RightWingElbow	Owl1_RightWingElbow.iff
+Owl1	RightWingHand	Owl1_RightWingHand.iff
